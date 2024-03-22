@@ -10,7 +10,7 @@ As a PhD candidate in VLSI and computer architecture, I specialize in low-power 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.researchgate.net/profile/Morteza-Rezaalipour"><img width="32px" alt="ReaserchGate" title="ReaserchGate" src="https://i.imgur.com/rAaUU6y.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://scholar.google.com/citations?hl=en&user=nOK-mUYAAAAJ"><img width="32px" alt="ReaserchGate" title="ReaserchGate" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png"/></a>
+<a href="https://scholar.google.com/citations?hl=en&user=nOK-mUYAAAAJ"><img width="32px" alt="Google Scholar" title="Google Scholar" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png"/></a>
 
 ---
 
