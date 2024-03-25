@@ -33,6 +33,12 @@ As a PhD candidate in VLSI and computer architecture, I specialize in low-power 
 
 ![MortezaRezaalipour's Stats](https://github-readme-stats.vercel.app/api?username=MortezaRezaalipour&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MortezaRezaalipour/MortezaRezaalipour-stats/master/generated/overview.svg#gh-dark-mode-only">
+<!--     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/overview.svg#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-light-mode-only"> -->
+</div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
