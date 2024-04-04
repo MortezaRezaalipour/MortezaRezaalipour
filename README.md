@@ -1,6 +1,6 @@
 # Morteza Rezaalipour 
 
-**`PhD candidate at USI and a part-time teacher`**
+**`FPGA/ASIC (Verilog/VHDL) Enthusiast | Low Power Approximate Computing | PhD candidate at USI | Part-time Teacher`**
 
 As a PhD candidate in VLSI and computer architecture, I specialize in low-power circuit development for image and video processing and machine learning, focusing on approximate computing as a new computing paradigm. My background includes a strong research record and hands-on experience, notably with the University of Utah. Skilled in conveying complex ideas in native-level English, I am a fast learner, adaptable, dynamic, and motivated. With a positive outlook, I am keen to bring my expertise in approximate logic synthesis to the industry, applying my skills to address real-world challenges and drive technological progress.
 
